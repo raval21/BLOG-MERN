@@ -1,0 +1,25 @@
+.signup-box {
+    background-color: #f8f9fa; /* Light background color */
+    padding: 30px;
+    border-radius: 20px; /* Rounded corners */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    width: 400px; /* Fixed width */
+  }
+  
+  .signup-box h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .signup-box .form-group {
+    margin-bottom: 15px; /* Spacing between input fields */
+  }
+  
+  .btn-primary {
+    width: 100%; /* Full width button */
+  }
+  
+  .alert {
+    margin-bottom: 20px; /* Spacing for error message */
+  }
+  
